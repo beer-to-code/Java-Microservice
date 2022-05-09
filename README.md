@@ -1,23 +1,26 @@
-# Java-Microservice
-# Author : Deepesh Kumar Pandey
-# IG : @beer_to_code
-# Consumer Microservice is Build in Java 8
+ Java-Microservice
+ Author : Deepesh Kumar Pandey
+ IG : @beer_to_code
+ Consumer Microservice is Build in Java 8
 
 # "Consumer Microservice API",
 
-# An Agent through Insureity App can interact with Consumer Service to create new consumer / update consumer details. Consumer is the customer here who wishes to subscribe to a Business Property Insurance with the Insurance Company. In this project we are restricting to Property Insurance that means the land/building in which the business is operated will be covered. \r\n" + 
-# "The Consumer Microservice has to interact with Policy Microservice to create a policy and as well as to view the policy status \r\n" + 
-# "Post Authorization, the Consumer Microservice will perform the following functionalities: \r\n" + 
-#    @  Create Consumer Business \r\n" + 
-#    @  Create Business Property \r\n" + 
-#    @  View Consumer Business \r\n" + 
-#    @  View Business Property \r\n" + 
-#    @  Update Consumer Business \r\n" + 
-#    @  Update Business Property  ",
+ An Agent through Insureity App can interact with Consumer Service to create new consumer / update consumer details. Consumer is the customer here who wishes to subscribe to a Business Property Insurance with the Insurance Company. In this project we are restricting to Property Insurance that means the land/building in which the business is operated will be covered. \r\n" + 
+ "The Consumer Microservice has to interact with Policy Microservice to create a policy and as well as to view the policy status \r\n" + 
+ "Post Authorization, the Consumer Microservice will perform the following functionalities: \r\n" + 
+
+# API Is Present For:
+
+    @  Create Consumer Business \r\n" + 
+    @  Create Business Property \r\n" + 
+    @  View Consumer Business \r\n" + 
+    @  View Business Property \r\n" + 
+    @  Update Consumer Business \r\n" + 
+    @  Update Business Property  ",
 
 
-#   Version : "1.0",
-#   Copyright : "©Copyright Application",
+   @Version : "1.0",
+   @Copyright : "©Copyright Application",
 
 
 ##########################################################################################################
